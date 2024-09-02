@@ -1,5 +1,5 @@
 # Excel_Project
-Here are some meaningful insights from the Jay Kisaan Store Annual Report 2024 Exel Project:
+Here are some meaningful insights from the Vrinda Store Annual Report 2024 Exel Project:
 
 Orders vs Sales Trends:
 
